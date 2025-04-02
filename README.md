@@ -1,1 +1,1 @@
-![GitHub Workflow Status](https://github.com/JanisRoth/SonarCloudDevDay/blob/main/.github/workflows/dotnet.yml)
+[![GitHub Workflow Status](https://github.com/JanisRoth/SonarCloudDevDay/blob/main/.github/workflows/dotnet.yml)]
