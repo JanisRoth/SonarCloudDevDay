@@ -1,1 +1,2 @@
 [![.NET](https://github.com/JanisRoth/SonarCloudDevDay/actions/workflows/dotnet.yml/badge.svg)](https://github.com/JanisRoth/SonarCloudDevDay/actions/workflows/dotnet.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=JanisRoth_SonarCloudDevDay&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=JanisRoth_SonarCloudDevDay)
